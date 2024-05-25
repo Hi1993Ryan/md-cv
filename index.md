@@ -2,7 +2,7 @@
 layout: cv
 title: Liu Jiangrui's CV
 ---
-# Benjamin L. Moore
+# Liu Jiangrui
 Bioinformatics PhD and Solutions Architect
 
 <div id="webaddress">
