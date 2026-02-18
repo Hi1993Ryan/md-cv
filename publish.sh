@@ -3,8 +3,9 @@
 # build site from markdown
 jekyll build
 
-# path on your system to your github pages repo checkout
-SITE_DIR=../blmoore.github.io/cv/
+# path on your system to your github pages repo checkout (if you deploy by copying _site into another repo)
+# SITE_DIR=../Hi1993Ryan.github.io/  # example: copy into main site's static/md-cv/
+SITE_DIR=../md-cv-deploy/
 
 # remove old files
 rm -R ${SITE_DIR}*
