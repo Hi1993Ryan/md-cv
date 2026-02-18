@@ -1,171 +1,168 @@
 ---
 layout: cv
-title: Liu Jiangrui's CV
+title: Jiangrui Liu's CV
 ---
-# Liu Jiangrui
-Bioinformatics PhD and Solutions Architect
+# Jiangrui Liu, Ph.D.
+
+School of Public Policy and Administration, Chongqing University  
+Shapingba, Chongqing 400044, China
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:serenity@cqu.edu.cn">serenity@cqu.edu.cn</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-globe"></i> <a href="https://hi1993ryan.github.io/">hi1993ryan.github.io</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=C_gAro8AAAAJ&hl=en">Google Scholar</a>
+|
+<i class="fa fa-github"></i> <a href="https://github.com/Hi1993Ryan">GitHub</a>
 </div>
-
 
 ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+`2024-` **Deputy Chair**, Department of Public Administration, Chongqing University  
+`2022-` **Lecturer**, School of Public Policy and Administration, Chongqing University
 
-## Employment
+## Areas of specialization
 
-`2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+Social attitude changes, public policy, quantitative methods, computational social science
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+## Appointments held
 
-## Technical skills
-
-* Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
-* AWS
-* UNIX
-* Cluster computing
-* Docker
-* Git and GitHub
-* HTML and CSS
-* Bash
-* Agile development
+`2023-2024` The Administrative Center for China's Agenda 21, NSFC, Ministry of Science and Technology  
+`2015-2021` WELAND⁺ International  
+`2019` Bureau of Big Data Management, Longnan City, Gansu Province, China  
+`2015-2016` Information Center, Development Research Center of the State Council  
+`2013` Jilin Branch, China Daily
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`2021` **Ph.D.** in Political Science, Tsinghua University  
+`2019` **Visiting Scholar**, Macau University of Science and Technology  
+`2017` **M.A.** in International Studies, Renmin University of China  
+`2015` **B.A.** in International Politics, Northeast Normal University
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+## Grants, honors & awards
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-### Certifications
-
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
-
-## Areas of expertise
-
-* Bioinformatics
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Population genomics
-* Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
+`2025` Third Prize, Annual Research Output Appraisal, National Association of Government Offices Administration  
+`2024` Best Paper Award, 10th Annual Academic Conference of Chinese Public Management  
+`2023` Fundamental Research Funds for the Central Universities of China (2023CDJXY-002)  
+`2023` Fundamental Research Funds for the Central Universities of China (2023CDJSKJJ12)  
+`2022` National Social Science Fund of China (22CZZ044)  
+`2022` China Postdoctoral Science Foundation (2022M710538)  
+`2022` MPSA Developing Nations Scholarship  
+`2019` MPSA Developing Nations Scholarship  
+`2019` Best Paper Award (Research Methodology), Taiwanese Political Science Association Annual Meeting  
+`2018` Second Prize for Innovative Projects, Tsinghua-CNKI Big Data Social Science Workshop  
+`2016` First-Class Academic Scholarship for Research-Oriented Graduate Students, Renmin University of China
 
 ## Publications
 
-### Journal articles
-`2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
+### Peer-reviewed journal articles
 
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
+`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_ (forthcoming).
 
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+`2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _International Political Science Review_.
 
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+`2024` Jiangrui Liu and Hui Yang, "Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis", _Archives of Sexual Behavior_, 53(7): 2529–2546.
 
-Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
+`2024` Tangjun Li, Qiaoxian Zhang, Fan Yang, Guowei Jia, **Jiangrui Liu**, and Bing Ke, "Post-Evaluation Pilot Study on the Results of National Key R&D Projects", _China Science & Technology Resources Review_ (Chinese), 56(3): 17–25.
 
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
+`2021` Yu-Sung Su and **Jiangrui Liu**, "Computational Social Science and the Debate on Research Paradigms: The End of Theory?", _Fudan Journal: Social Sciences Edition_ (Chinese), 63(2): 189–196.
 
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
+`2020` Yu-Sung Su and **Jiangrui Liu**, "Statistical Analysis Methods and American Political Science Research", _American Studies_ (Chinese), 34(3): 107–125+7–8.
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
+`2019` Siyu Sun, **Jiangrui Liu**, and Zhuohang Li, "Prospects for the Application of Data Analysis Methods in the Development of the Guangdong-Hong Kong-Macau Greater Bay Area", _Macau Studies_ (Chinese), 92: 96–98.
 
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+### Newspaper article
 
-### Book chapters
+`2025.04.25` Jiangrui Liu and Yu-Sung Su, "Large Language Models Enhance the Potential of Research on Social Avatar", _Chinese Social Sciences Today_ (Chinese): 7.
 
-`2017`
-__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
+### Under review / revision
 
-## Non-academic
+Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), "Stock Neutrality, Flow Crowding-Out, and State-Dependency: Revisiting the Debt-Health Nexus in OECD Europe".
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+Jiangrui Liu and Hui Yang, "Distinct in Values, Diverse in Action: Unpacking Postmaterialist Values and Political Participation Among Chinese Youth". _Revision & Resubmission_.
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+Yu-Sung Su and **Jiangrui Liu** (corr. author), "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship". _Revision & Resubmission_.
 
-## Projects
+Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America". _Revision & Resubmission_.
 
-### github
+Jiangrui Liu, "How Time Shapes Corruption Perception: Age, Period, and Cohort Dynamics in China".
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "From Nation to Europe: How Identities Shape Immigration Attitudes".
 
-### blog
+Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "Future That Pushes: Economic Expectations and Migration Intentions in Latin America".
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption".
 
-### EdinbR
+Rong Ran, Jiaxing Li and **Jiangrui Liu** (corr. author), "Internet Use and Evolving Citizen Perceptions: An Age-Period-Cohort Analysis of Government Performance Evaluation".
 
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+Jiangrui Liu and Hui Yang, "Longitudinal Inquiry into Public Sentiments on Environmental Governance in China".
 
-### datarea
+Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude".
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+Jiangrui Liu, Fan Yang, Qiaoxian Zhang, and Tangjun Li, "Evaluating the National Key R&D Program through Collaborative Networks: A Case Study of the 'Science and Technology for Winter Olympics'" (Chinese).
 
-## Awards
+## Conference
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+`2026` Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption", _American Society for Public Administration 2026 Annual Conference_, Hollywood, California, USA, March 20–24.
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+`2025` Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude", _IPSA 28th World Congress of Political Science_, Seoul, Korea, July 12–16.
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+`2025` Xiang Wang, Yihui Tong, and **Jiangrui Liu**, "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _Public Management Research Conference_, Seoul, Korea, June 25–28.
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+`2024` Jiangrui Liu and Hui Yang, "Longitudinal Inquiry into Public Sentiments on Environmental Governance in China", _120th American Political Science Association Annual Meeting_, Philadelphia, USA, September 5–8.
 
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
+`2024` Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude", _81st Annual Midwest Political Science Association Conference_, Chicago, USA, April 4–7.
 
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
+`2023` Jiangrui Liu and Hui Yang, "How a Bill Becomes a Law: The Logic of Bill Modification in China's Legislative Process", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+`2023` Yu-Sung Su and **Jiangrui Liu**, "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-## Placements
+`2023` Jiangrui Liu and Hui Yang, "Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis", _XX ISA World Congress of Sociology_, Melbourne, Australia, June 25–July 1; _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+`2019` Yu-Sung Su and **Jiangrui Liu**, "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship", _International Conference of Social Computing_, Beijing, China; _Taiwanese Political Science Association Annual Meeting_, Chiayi, Taiwan.
 
+`2019` Siyu Sun and **Jiangrui Liu**, "The Effect of Changing Structural Hole on Individual Dynamic Accumulation and Performance Lag: Density as Moderator", _5th Guanxi for Guanxi Study Seminar_, Beijing, China.
+
+## Teaching
+
+`2026, 2025` Research Design in Social Sciences (Undergraduate), Chongqing University  
+`2025` Behavioral Public Administration (Undergraduate), Chongqing University  
+`2025, 2024` Qualitative Research Methods (Master's Program), Chongqing University  
+`2025, 2024` National Government Office Management (MPA), Chongqing University  
+`2020, 2019` Teaching Assistant, "Democratization and China in Comparative Perspective" (International Master's Program; English), Tsinghua University  
+`2020, 2019` Teaching Assistant, "Workshop on Social Science and Data Science" (Doctoral Program), Tsinghua University
+
+## Field & survey experience
+
+`2019` Supervisor for the Asian Barometer Survey  
+`2018` Supervisor for the Chinese Urban Governance Survey  
+`2018` Investigator for the College Students' Values Survey (Beijing)  
+`2016` Investigator at the Rural Economy Research Center, Ministry of Agriculture (projects on internet use by agricultural producers and consumers, farmer entrepreneurship and innovation)
+
+## Talks
+
+`2025.05.30` People's Public Security University of China — Striving to See the World Clearly: Empirical Awareness in Social Science  
+`2022.12.02` Chongqing University — Application Guidance for the National Social Science Fund Project  
+`2022.11.09` Southwest University of Science and Technology — Empirical Approaches on Social Attitude Research: Awareness of Issues, Data, and Methods
+
+## Service
+
+Reviewer: _Journal of Youth_; _Social Science Quarterly_; International Research Society for Public Management (IRSPM) Annual Conference
+
+## Skills
+
+R, Python · Stata, SAS · NVivo, fsQCA · Zotero, LaTeX, Markdown · CiteSpace, VOSviewer, Tableau, Geoda  
+Mandarin (Native), English (Fluent)
 
 ## Links
 
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:serenity@cqu.edu.cn">serenity@cqu.edu.cn</a><br />
+* <i class="fa fa-globe"></i> <a href="https://hi1993ryan.github.io/">hi1993ryan.github.io</a><br />
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=C_gAro8AAAAJ&hl=en">Google Scholar</a><br />
+* <i class="fa fa-github"></i> <a href="https://github.com/Hi1993Ryan">GitHub</a>
 
 ## References
 
 Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
