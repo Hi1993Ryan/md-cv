@@ -87,6 +87,8 @@ Yu-Sung Su and **Jiangrui Liu** (corr. author), "Contriving the Future by Tamper
 
 Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America". _Revision & Resubmission_.
 
+Xiang Wang, Hanyue Xue, and **Jiangrui Liu** (corr. author), "Have Latin Americans Grown More Willing to Emigrate? Evidence from Age–Period–Cohort Analyses in 16 Countries".
+
 Jiangrui Liu, "How Time Shapes Corruption Perception: Age, Period, and Cohort Dynamics in China".
 
 Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "From Nation to Europe: How Identities Shape Immigration Attitudes".
