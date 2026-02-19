@@ -218,3 +218,20 @@ html.dark body {
 html.dark a {
   color: #9cd5ff;
 }
+
+# Theme toggle button
+#cv-theme-toggle {
+  position: fixed;
+  top: 0.75em;
+  right: 1.2em;
+  padding: 0.2em 0.6em;
+  font-size: 80%;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  cursor: pointer;
+}
+html.dark #cv-theme-toggle {
+  background: #333;
+  color: #eee;
+  border-color: #666;
+}

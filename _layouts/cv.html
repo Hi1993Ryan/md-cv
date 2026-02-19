@@ -30,5 +30,30 @@
 
   <div class="footer"></div>
 
+  <button id="cv-theme-toggle" type="button">Toggle theme</button>
+  <script>
+  (function() {
+    try {
+      var root = document.documentElement;
+      var stored = localStorage.getItem("cv-theme");
+      if (stored === "dark") {
+        root.classList.add("dark");
+      } else if (stored === "light") {
+        root.classList.remove("dark");
+      }
+      var btn = document.getElementById("cv-theme-toggle");
+      if (btn) {
+        btn.addEventListener("click", function () {
+          var isDark = root.classList.contains("dark");
+          var next = isDark ? "light" : "dark";
+          if (next === "dark") root.classList.add("dark");
+          else root.classList.remove("dark");
+          try { localStorage.setItem("cv-theme", next); } catch (e) {}
+        });
+      }
+    } catch (e) {}
+  })();
+  </script>
+
 </body>
 </html>
