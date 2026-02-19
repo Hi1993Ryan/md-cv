@@ -208,3 +208,13 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
+/* Dark theme overrides */
+html.dark body {
+  background: #1d1e20;
+  color: #eee;
+}
+
+html.dark a {
+  color: #9cd5ff;
+}
