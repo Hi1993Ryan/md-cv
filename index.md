@@ -89,9 +89,9 @@ Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Dis
 
 Jiangrui Liu, "How Time Shapes Corruption Perception: Age, Period, and Cohort Dynamics in China".
 
-Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "From Nation to Europe: How Identities Shape Immigration Attitudes".
+Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "From Nation to Europe: How Identities Shape Immigration Attitudes".
 
-Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "Future That Pushes: Economic Expectations and Migration Intentions in Latin America".
+Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "Future That Pushes: Economic Expectations and Migration Intentions in Latin America".
 
 Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption".
 
