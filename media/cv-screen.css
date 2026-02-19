@@ -235,3 +235,23 @@ html.dark #cv-theme-toggle {
   color: #eee;
   border-color: #666;
 }
+
+/* Stronger dark theme overrides */
+html.dark body, html.dark #main, html.dark #content {
+  background: #1d1e20;
+  color: #eee;
+}
+
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark p,
+html.dark li,
+html.dark code,
+html.dark #webaddress {
+  color: #eee;
+}
+
+html.dark a {
+  color: #9cd5ff;
+}
