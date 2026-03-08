@@ -56,7 +56,7 @@ body {
 	font: normal normal 400;
 	font-size: 9pt;
 	line-height: 1.35em;
-	font-family: "Open sans", sans-serif;
+	font-family: "PT Sans Narrow", sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -72,7 +72,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	color: #444;
 }
 
@@ -105,7 +105,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: "PT Sans Narrow", Verdana, sans-serif;
 	width: 65%;
 }
 

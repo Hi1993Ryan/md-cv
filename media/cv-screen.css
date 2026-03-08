@@ -57,7 +57,7 @@ body {
 	font-size: 80%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
-	font-family: "Open sans", sans-serif;
+	font-family: "PT Sans Narrow", sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -107,7 +107,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: "PT Sans Narrow", Verdana, sans-serif;
 	width: 65%;
 }
 
