@@ -222,7 +222,7 @@ html.dark a {
   color: #9cd5ff;
 }
 
-# Theme toggle button
+/* Theme toggle button */
 #cv-theme-toggle {
   position: fixed;
   top: 0.75em;
