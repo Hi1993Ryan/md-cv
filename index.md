@@ -59,7 +59,9 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 ### Peer-reviewed journal articles
 
-`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_ (forthcoming).
+`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_.
+
+`2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America", _Studies in Comparative International Development_.
 
 `2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _International Political Science Review_.
 
@@ -84,8 +86,6 @@ Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), "Stock Neutrali
 Jiangrui Liu and Hui Yang, "Distinct in Values, Diverse in Action: Unpacking Postmaterialist Values and Political Participation Among Chinese Youth". _Revision & Resubmission_.
 
 Yu-Sung Su and **Jiangrui Liu** (corr. author), "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship". _Revision & Resubmission_.
-
-Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America". _Revision & Resubmission_.
 
 Xiang Wang, Hanyue Xue, and **Jiangrui Liu** (corr. author), "Have Latin Americans Grown More Willing to Emigrate? Evidence from Age–Period–Cohort Analyses in 16 Countries".
 
