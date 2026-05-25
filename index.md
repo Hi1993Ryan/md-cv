@@ -59,7 +59,7 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 ### Peer-reviewed journal articles
 
-`2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), "When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America", _Studies in Comparative International Development_.
+`2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
 
 `2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_.
 
