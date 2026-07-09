@@ -63,6 +63,8 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 `2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_.
 
+`2026` Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), "Stock Neutrality, Flow Crowding-Out, and State-Dependency: Revisiting the Debt-Health Nexus in OECD Europe".
+
 `2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _International Political Science Review_.
 
 `2024` Jiangrui Liu and Hui Yang, "Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis", _Archives of Sexual Behavior_, 53(7): 2529–2546.
@@ -80,8 +82,6 @@ Social attitude changes, public policy, quantitative methods, computational soci
 `2025.04.25` Jiangrui Liu and Yu-Sung Su, "Large Language Models Enhance the Potential of Research on Social Avatar", _Chinese Social Sciences Today_ (Chinese): 7.
 
 ### Under review / revision
-
-Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), "Stock Neutrality, Flow Crowding-Out, and State-Dependency: Revisiting the Debt-Health Nexus in OECD Europe".
 
 Jiangrui Liu and Hui Yang, "Distinct in Values, Diverse in Action: Unpacking Postmaterialist Values and Political Participation Among Chinese Youth". _Revision & Resubmission_.
 
