@@ -63,11 +63,11 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 `2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
 
-`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), [Decoding Legislative Dynamics: Empirics on Bill Modifications in China](https://journals.sagepub.com/doi/10.1177/00323217261428857), _Political Studies_.
+`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), [Decoding Legislative Dynamics: Empirics on Bill Modifications in China](https://journals.sagepub.com/doi/10.1177/00323217261428857), _Political Studies_. [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VUWDDL" target="_blank" rel="noopener noreferrer">replication materials</a>]
 
 `2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), [The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration](https://journals.sagepub.com/home/IPS), _International Political Science Review_.
 
-`2024` Jiangrui Liu and Hui Yang, [Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis](https://rdcu.be/dJ3Ix), _Archives of Sexual Behavior_, 53(7): 2529–2546.
+`2024` Jiangrui Liu and Hui Yang, [Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis](https://rdcu.be/dJ3Ix), _Archives of Sexual Behavior_, 53(7): 2529–2546. [mentioned by [*PsyPost*](https://www.psypost.org/study-reveals-evolving-sexual-attitudes-in-china-influenced-by-age-urban-rural-divide-and-political-status/)]
 
 `2024` Tangjun Li, Qiaoxian Zhang, Fan Yang, Guowei Jia, **Jiangrui Liu**, and Bing Ke, "Post-Evaluation Pilot Study on the Results of National Key R&D Projects", _China Science & Technology Resources Review_ (Chinese), 56(3): 17–25.
 
