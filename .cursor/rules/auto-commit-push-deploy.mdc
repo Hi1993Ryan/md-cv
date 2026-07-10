@@ -1,0 +1,43 @@
+---
+description: 修改 md-cv 后自动提交并 push 以更新线上 CV
+alwaysApply: true
+---
+
+# md-cv 修改后自动提交与部署
+
+用户已授权：在本仓库完成 CV 相关修改后，**无需再单独要求**，应自动提交并 push 到 GitHub。
+
+## 仓库
+
+- `md-cv` → `origin`（`https://github.com/Hi1993Ryan/md-cv.git`）
+- 分支：`master`
+
+## 何时执行
+
+修改 `index.md`、`_layouts/`、`media/` 等并完成检查后：
+
+1. 确认 Markdown/HTML/CSS 无明显错误
+2. 然后 commit 并 `git push origin master`
+3. 构建/检查失败则不 push，先修复
+
+## Git 流程
+
+```bash
+git status && git diff && git log -1 --oneline
+git add <相关文件>
+git commit -m "$(cat <<'EOF'
+简短说明（为何而改）
+
+EOF
+)"
+git push origin master
+```
+
+## 安全约束
+
+- 不 force push、不改 git config、不 `--no-verify`
+- 用户明确说「不要 push」时暂停
+
+## 关联主站
+
+若同时改了 `Hi1993Ryan.github.io`，两个仓库**分别** commit 与 push。

@@ -63,23 +63,27 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 `2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
 
-`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), "Decoding Legislative Dynamics: Empirics on Bill Modifications in China", _Political Studies_.
+`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), [Decoding Legislative Dynamics: Empirics on Bill Modifications in China](https://journals.sagepub.com/doi/10.1177/00323217261428857), _Political Studies_.
 
-`2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _International Political Science Review_.
+`2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), [The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration](https://journals.sagepub.com/home/IPS), _International Political Science Review_.
 
-`2024` Jiangrui Liu and Hui Yang, "Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis", _Archives of Sexual Behavior_, 53(7): 2529–2546.
+`2024` Jiangrui Liu and Hui Yang, [Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis](https://rdcu.be/dJ3Ix), _Archives of Sexual Behavior_, 53(7): 2529–2546.
 
 `2024` Tangjun Li, Qiaoxian Zhang, Fan Yang, Guowei Jia, **Jiangrui Liu**, and Bing Ke, "Post-Evaluation Pilot Study on the Results of National Key R&D Projects", _China Science & Technology Resources Review_ (Chinese), 56(3): 17–25.
 
-`2021` Yu-Sung Su and **Jiangrui Liu**, "Computational Social Science and the Debate on Research Paradigms: The End of Theory?", _Fudan Journal: Social Sciences Edition_ (Chinese), 63(2): 189–196.
+`2021` Yu-Sung Su and **Jiangrui Liu**, [Computational Social Science and the Debate on Research Paradigms: The End of Theory?](https://is.gd/Xz2rWW), _Fudan Journal: Social Sciences Edition_ (Chinese), 63(2): 189–196.
 
-`2020` Yu-Sung Su and **Jiangrui Liu**, "Statistical Analysis Methods and American Political Science Research", _American Studies_ (Chinese), 34(3): 107–125+7–8.
+`2020` Yu-Sung Su and **Jiangrui Liu**, [Statistical Analysis Methods and American Political Science Research](https://is.gd/bf5ort), _American Studies_ (Chinese), 34(3): 107–125+7–8.
 
-`2019` Siyu Sun, **Jiangrui Liu**, and Zhuohang Li, "Prospects for the Application of Data Analysis Methods in the Development of the Guangdong-Hong Kong-Macau Greater Bay Area", _Macau Studies_ (Chinese), 92: 96–98.
+`2019` Siyu Sun, **Jiangrui Liu**, and Zhuohang Li, [Prospects for the Application of Data Analysis Methods in the Development of the Guangdong-Hong Kong-Macau Greater Bay Area](https://is.gd/81IHTa), _Macau Studies_ (Chinese), 92: 96–98.
+
+### Book sections
+
+`2023` Two papers included in: Xiaojin Zhang & Yuejin Jing, _[百年变局与中国政治学的时代化：清华政治学系的探索](https://mp.weixin.qq.com/s/HOKiUL22dz56fcH-e3JMhg)_ (Chinese), Central Compilation & Translation Press.
 
 ### Newspaper article
 
-`2025.04.25` Jiangrui Liu and Yu-Sung Su, "Large Language Models Enhance the Potential of Research on Social Avatar", _Chinese Social Sciences Today_ (Chinese): 7.
+`2025.04.25` Jiangrui Liu and Yu-Sung Su, [Large Language Models Enhance the Potential of Research on Social Avatar](https://www.cssn.cn/skgz/bwyc/202504/t20250425_5870796.shtml), _Chinese Social Sciences Today_ (Chinese): 7.
 
 ### Under review / revision
 
@@ -157,13 +161,6 @@ Reviewer: _Journal of Youth_; _Social Science Quarterly_; International Research
 
 R, Python · Stata, SAS · NVivo, fsQCA · Zotero, LaTeX, Markdown · CiteSpace, VOSviewer, Tableau, Geoda  
 Mandarin (Native), English (Fluent)
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:serenity@cqu.edu.cn">serenity@cqu.edu.cn</a><br />
-* <i class="fa fa-globe"></i> <a href="https://hi1993ryan.github.io/">hi1993ryan.github.io</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=C_gAro8AAAAJ&hl=en">Google Scholar</a><br />
-* <i class="fa fa-github"></i> <a href="https://github.com/Hi1993Ryan">GitHub</a>
 
 ## References
 
