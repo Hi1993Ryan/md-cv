@@ -59,6 +59,8 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 ### Peer-reviewed journal articles
 
+`2026` **Jiangrui Liu**, "Longitudinal Inquiry into Public Sentiments on Environmental Governance in China", _Journal of Asian and African Studies_. [<a href="https://doi.org/10.7910/DVN/02QCZ6" target="_blank" rel="noopener noreferrer">replication materials</a>]
+
 `2026` Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), [Stock neutrality, flow crowding-out, and state dependence: revisiting the debt–health nexus in OECD Europe](https://doi.org/10.1007/s10198-026-01971-y), _European Journal of Health Economics_.
 
 `2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
@@ -102,8 +104,6 @@ Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "Future That Push
 Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption".
 
 Rong Ran, Jiaxing Li and **Jiangrui Liu** (corr. author), "Internet Use and Evolving Citizen Perceptions: An Age-Period-Cohort Analysis of Government Performance Evaluation".
-
-Jiangrui Liu and Hui Yang, "Longitudinal Inquiry into Public Sentiments on Environmental Governance in China".
 
 Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude".
 
