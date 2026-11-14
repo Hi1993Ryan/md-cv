@@ -61,6 +61,8 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 `2026` **Jiangrui Liu**, [Longitudinal Inquiry into Public Sentiments on Environmental Governance in China](https://doi.org/10.1177/00219096261503027), _Journal of Asian and African Studies_. [<a href="https://doi.org/10.7910/DVN/02QCZ6" target="_blank" rel="noopener noreferrer">replication materials</a>]
 
+`2026` Yu-Sung Su and **Jiangrui Liu** (corr. author), "The Temporal Dynamics of Online Moderation in China", _Journal of Chinese Political Science_.
+
 `2026` Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), [Stock neutrality, flow crowding-out, and state dependence: revisiting the debt–health nexus in OECD Europe](https://doi.org/10.1007/s10198-026-01971-y), _European Journal of Health Economics_.
 
 `2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
@@ -90,8 +92,6 @@ Social attitude changes, public policy, quantitative methods, computational soci
 ### Under review / revision
 
 Jiangrui Liu and Hui Yang, "Distinct in Values, Diverse in Action: Unpacking Postmaterialist Values and Political Participation Among Chinese Youth". _Revision & Resubmission_.
-
-Yu-Sung Su and **Jiangrui Liu** (corr. author), "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship". _Revision & Resubmission_.
 
 Xiang Wang, Hanyue Xue, and **Jiangrui Liu** (corr. author), "Have Latin Americans Grown More Willing to Emigrate? Evidence from Age–Period–Cohort Analyses in 16 Countries".
 
