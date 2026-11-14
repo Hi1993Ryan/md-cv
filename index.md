@@ -59,27 +59,27 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 ### Peer-reviewed journal articles
 
-`2026` Yu-Sung Su and **Jiangrui Liu** (corr. author), "The Temporal Dynamics of Online Moderation in China", _Journal of Chinese Political Science_.
+`2026` Yu-Sung Su and **Jiangrui Liu** (corr. author), "The temporal dynamics of online moderation in China", _Journal of Chinese Political Science_.
 
-`2026` **Jiangrui Liu**, [Longitudinal Inquiry into Public Sentiments on Environmental Governance in China](https://doi.org/10.1177/00219096261503027), _Journal of Asian and African Studies_. [<a href="https://doi.org/10.7910/DVN/02QCZ6" target="_blank" rel="noopener noreferrer">replication materials</a>]
+`2026` **Jiangrui Liu**, [Longitudinal inquiry into public sentiments on environmental governance in China](https://doi.org/10.1177/00219096261503027), _Journal of Asian and African Studies_. [<a href="https://doi.org/10.7910/DVN/02QCZ6" target="_blank" rel="noopener noreferrer">replication materials</a>]
 
 `2026` Chengcheng Yue, Lili Shang, and **Jiangrui Liu** (corr. author), [Stock neutrality, flow crowding-out, and state dependence: revisiting the debt–health nexus in OECD Europe](https://doi.org/10.1007/s10198-026-01971-y), _European Journal of Health Economics_.
 
-`2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When Democracy Disappoints: Political, Economic, and Security Drivers of Emigration Intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
+`2026` Xiang Wang, Yihui Tong, and **Jiangrui Liu** (corr. author), [When democracy disappoints: Political, economic, and security drivers of emigration intentions in Latin America](https://link.springer.com/article/10.1007/s12116-026-09505-6), _Studies in Comparative International Development_.
 
-`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), [Decoding Legislative Dynamics: Empirics on Bill Modifications in China](https://journals.sagepub.com/doi/10.1177/00323217261428857), _Political Studies_. [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VUWDDL" target="_blank" rel="noopener noreferrer">replication materials</a>]
+`2026` Hui Yang, Xiaohong Yu, and **Jiangrui Liu** (corr. author), [Decoding legislative dynamics: Empirics on bill modifications in China](https://journals.sagepub.com/doi/10.1177/00323217261428857), _Political Studies_. [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VUWDDL" target="_blank" rel="noopener noreferrer">replication materials</a>]
 
-`2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), [The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration](https://journals.sagepub.com/home/IPS), _International Political Science Review_.
+`2025` Xiang Wang, Yihui Tong and **Jiangrui Liu** (corr. author), [The rise and fall of exclusion: A longitudinal study of U.S. attitudes toward immigration](https://journals.sagepub.com/home/IPS), _International Political Science Review_.
 
-`2024` Jiangrui Liu and Hui Yang, [Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis](https://rdcu.be/dJ3Ix), _Archives of Sexual Behavior_, 53(7): 2529–2546. [mentioned by [*PsyPost*](https://www.psypost.org/study-reveals-evolving-sexual-attitudes-in-china-influenced-by-age-urban-rural-divide-and-political-status/)]
+`2024` Jiangrui Liu and Hui Yang, [Divergence in Chinese sexual attitudes: An age--period--cohort analysis](https://rdcu.be/dJ3Ix), _Archives of Sexual Behavior_, 53(7): 2529–2546. [mentioned by [*PsyPost*](https://www.psypost.org/study-reveals-evolving-sexual-attitudes-in-china-influenced-by-age-urban-rural-divide-and-political-status/)]
 
-`2024` Tangjun Li, Qiaoxian Zhang, Fan Yang, Guowei Jia, **Jiangrui Liu**, and Bing Ke, "Post-Evaluation Pilot Study on the Results of National Key R&D Projects", _China Science & Technology Resources Review_ (Chinese), 56(3): 17–25.
+`2024` Tangjun Li, Qiaoxian Zhang, Fan Yang, Guowei Jia, **Jiangrui Liu**, and Bing Ke, "Post-evaluation pilot study on the results of National Key R&D Projects", _China Science & Technology Resources Review_ (Chinese), 56(3): 17–25.
 
-`2021` Yu-Sung Su and **Jiangrui Liu**, [Computational Social Science and the Debate on Research Paradigms: The End of Theory?](https://is.gd/Xz2rWW), _Fudan Journal: Social Sciences Edition_ (Chinese), 63(2): 189–196.
+`2021` Yu-Sung Su and **Jiangrui Liu**, [Computational social science and the debate on research paradigms: The end of theory?](https://is.gd/Xz2rWW), _Fudan Journal: Social Sciences Edition_ (Chinese), 63(2): 189–196.
 
-`2020` Yu-Sung Su and **Jiangrui Liu**, [Statistical Analysis Methods and American Political Science Research](https://is.gd/bf5ort), _American Studies_ (Chinese), 34(3): 107–125+7–8.
+`2020` Yu-Sung Su and **Jiangrui Liu**, [Statistical analysis methods and American political science research](https://is.gd/bf5ort), _American Studies_ (Chinese), 34(3): 107–125+7–8.
 
-`2019` Siyu Sun, **Jiangrui Liu**, and Zhuohang Li, [Prospects for the Application of Data Analysis Methods in the Development of the Guangdong-Hong Kong-Macau Greater Bay Area](https://is.gd/81IHTa), _Macau Studies_ (Chinese), 92: 96–98.
+`2019` Siyu Sun, **Jiangrui Liu**, and Zhuohang Li, [Prospects for the application of data analysis methods in the development of the Guangdong-Hong Kong-Macau Greater Bay Area](https://is.gd/81IHTa), _Macau Studies_ (Chinese), 92: 96–98.
 
 ### Book sections
 
@@ -87,7 +87,7 @@ Social attitude changes, public policy, quantitative methods, computational soci
 
 ### Newspaper article
 
-`2025.04.25` Jiangrui Liu and Yu-Sung Su, [Large Language Models Enhance the Potential of Research on Social Avatar](https://www.cssn.cn/skgz/bwyc/202504/t20250425_5870796.shtml), _Chinese Social Sciences Today_ (Chinese): 7.
+`2025.04.25` Jiangrui Liu and Yu-Sung Su, [Large language models enhance the potential of research on social avatar](https://www.cssn.cn/skgz/bwyc/202504/t20250425_5870796.shtml), _Chinese Social Sciences Today_ (Chinese): 7.
 
 ### Under review / revision
 
@@ -101,35 +101,35 @@ Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "From Nation to E
 
 Xiang Wang, Qingjie Chen, and **Jiangrui Liu** (corr. author), "Future That Pushes: Economic Expectations and Migration Intentions in Latin America".
 
-Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption".
+Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking eyes, shaping minds: Information framework and public stereotypes of corruption".
 
 Rong Ran, Jiaxing Li and **Jiangrui Liu** (corr. author), "Internet Use and Evolving Citizen Perceptions: An Age-Period-Cohort Analysis of Government Performance Evaluation".
 
-Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude".
+Jiangrui Liu and Yu-Sung Su, "The spectre of modernization: An empirical investigation on Chinese populist attitude".
 
 Jiangrui Liu, Fan Yang, Qiaoxian Zhang, and Tangjun Li, "Evaluating the National Key R&D Program through Collaborative Networks: A Case Study of the 'Science and Technology for Winter Olympics'" (Chinese).
 
 ## Conference
 
-`2026` Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking Eyes, Shaping Minds: Information Framework and Public Stereotypes of Corruption", _American Society for Public Administration 2026 Annual Conference_, Hollywood, California, USA, March 20–24.
+`2026` Shengxiang Ji, Teng Lu, and **Jiangrui Liu** (corr. author), "Tracking eyes, shaping minds: Information framework and public stereotypes of corruption", _American Society for Public Administration 2026 Annual Conference_, Hollywood, California, USA, March 20–24.
 
-`2025` Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude", _IPSA 28th World Congress of Political Science_, Seoul, Korea, July 12–16.
+`2025` Jiangrui Liu and Yu-Sung Su, "The spectre of modernization: An empirical investigation on Chinese populist attitude", _IPSA 28th World Congress of Political Science_, Seoul, Korea, July 12–16.
 
-`2025` Xiang Wang, Yihui Tong, and **Jiangrui Liu**, "The Rise and Fall of Exclusion: A Longitudinal Study of U.S. Attitudes Toward Immigration", _Public Management Research Conference_, Seoul, Korea, June 25–28.
+`2025` Xiang Wang, Yihui Tong, and **Jiangrui Liu**, "The rise and fall of exclusion: A longitudinal study of U.S. attitudes toward immigration", _Public Management Research Conference_, Seoul, Korea, June 25–28.
 
-`2024` Jiangrui Liu and Hui Yang, "Longitudinal Inquiry into Public Sentiments on Environmental Governance in China", _120th American Political Science Association Annual Meeting_, Philadelphia, USA, September 5–8.
+`2024` Jiangrui Liu and Hui Yang, "Longitudinal inquiry into public sentiments on environmental governance in China", _120th American Political Science Association Annual Meeting_, Philadelphia, USA, September 5–8.
 
-`2024` Jiangrui Liu and Yu-Sung Su, "The Spectre of Modernization: An Empirical Investigation on Chinese Populist Attitude", _81st Annual Midwest Political Science Association Conference_, Chicago, USA, April 4–7.
+`2024` Jiangrui Liu and Yu-Sung Su, "The spectre of modernization: An empirical investigation on Chinese populist attitude", _81st Annual Midwest Political Science Association Conference_, Chicago, USA, April 4–7.
 
-`2023` Jiangrui Liu and Hui Yang, "How a Bill Becomes a Law: The Logic of Bill Modification in China's Legislative Process", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
+`2023` Jiangrui Liu and Hui Yang, "How a bill becomes a law: The logic of bill modification in China's legislative process", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-`2023` Yu-Sung Su and **Jiangrui Liu**, "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
+`2023` Yu-Sung Su and **Jiangrui Liu**, "Contriving the future by tampering with the past: A deferral tactic in Chinese internet censorship", _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-`2023` Jiangrui Liu and Hui Yang, "Divergence in Chinese Sexual Attitudes: An Age-Period-Cohort Analysis", _XX ISA World Congress of Sociology_, Melbourne, Australia, June 25–July 1; _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
+`2023` Jiangrui Liu and Hui Yang, "Divergence in Chinese sexual attitudes: An age--period--cohort analysis", _XX ISA World Congress of Sociology_, Melbourne, Australia, June 25–July 1; _80th Annual Midwest Political Science Association Conference_, Chicago, USA, April 13–16.
 
-`2019` Yu-Sung Su and **Jiangrui Liu**, "Contriving the Future by Tampering with the Past: A Deferral Tactic in Chinese Internet Censorship", _International Conference of Social Computing_, Beijing, China; _Taiwanese Political Science Association Annual Meeting_, Chiayi, Taiwan.
+`2019` Yu-Sung Su and **Jiangrui Liu**, "Contriving the future by tampering with the past: A deferral tactic in Chinese internet censorship", _International Conference of Social Computing_, Beijing, China; _Taiwanese Political Science Association Annual Meeting_, Chiayi, Taiwan.
 
-`2019` Siyu Sun and **Jiangrui Liu**, "The Effect of Changing Structural Hole on Individual Dynamic Accumulation and Performance Lag: Density as Moderator", _5th Guanxi for Guanxi Study Seminar_, Beijing, China.
+`2019` Siyu Sun and **Jiangrui Liu**, "The effect of changing structural hole on individual dynamic accumulation and performance lag: Density as moderator", _5th Guanxi for Guanxi Study Seminar_, Beijing, China.
 
 ## Teaching
 
