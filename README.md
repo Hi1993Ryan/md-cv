@@ -3,7 +3,7 @@
 Jekyll-based Markdown CV (code kept for reference).
 
 **Active English CV** is now the LaTeX PDF on the main site:  
-[https://hi1993ryan.github.io/cv.pdf](https://hi1993ryan.github.io/cv.pdf)
+[https://jiangruiliu.github.io/cv.pdf](https://jiangruiliu.github.io/cv.pdf)
 
 This `/md-cv/` pages site is no longer linked from the homepage. Content may lag behind the LaTeX CV.
 
@@ -12,7 +12,7 @@ Forked from [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) and th
 ### Local preview (optional)
 
 ```bash
-git clone https://github.com/Hi1993Ryan/md-cv
+git clone https://github.com/jiangruiliu/md-cv
 cd md-cv
 jekyll serve
 ```

@@ -10,11 +10,11 @@ Shapingba, Chongqing 400044, China
 <div id="webaddress">
 <a href="mailto:serenity@cqu.edu.cn">serenity@cqu.edu.cn</a>
 |
-<i class="fa fa-globe"></i> <a href="https://hi1993ryan.github.io/">hi1993ryan.github.io</a>
+<i class="fa fa-globe"></i> <a href="https://jiangruiliu.github.io/">jiangruiliu.github.io</a>
 |
 <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=C_gAro8AAAAJ&hl=en">Google Scholar</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/Hi1993Ryan">GitHub</a>
+<i class="fa fa-github"></i> <a href="https://github.com/jiangruiliu">GitHub</a>
 </div>
 
 ## Currently
